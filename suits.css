@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#nav{
+
+	background-color:black;
+	width:100%;
+	height:40px;
+	color: ghostwhite;
+	text-align:center;
+	
+}
+#footer{
+
+	background-color: black;
+	color: ghostwhite;
+	width: 100%;
+	height:400px;
+}
+.fp{
+	padding-left: 450px;
+	margin-top: -200px;
+}
+#section{
+	padding-left: 100px;
+}
+
+.pilot{
+
+		background-color:lightblue;
+		color:black;
+		font-family:fantasy;
+		font-style: italic;
+		height:50px;
+		width: 90px;
+
+}
+body{
+
+	background-image:url('background.png');
+	background-size:cover;
+}
+
+
